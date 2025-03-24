@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #262627;
 }
 
 header {
@@ -31,8 +31,9 @@ main {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background: rgb(219, 211, 211);
+    background: rgb(48, 50, 51);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    color: rgb(210, 223, 238);
 }
 
 footer {
@@ -40,4 +41,13 @@ footer {
     padding: 10px;
     background: #333;
     color: white;
+}
+
+.divArticulos{
+    background-color: #40466b;
+    padding: 1%;
+    border-style:groove;
+    border-width:thick;
+    border-color: #000000;
+
 }
