@@ -42,3 +42,12 @@ footer {
     background: #333;
     color: white;
 }
+
+.divArticulos{
+    background-color: #40466b;
+    padding: 1%;
+    border-style:groove;
+    border-width:thick;
+    border-color: #000000;
+
+}
